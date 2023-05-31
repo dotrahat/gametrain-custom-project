@@ -4,7 +4,6 @@ import connect from './config/database.js'
 import Routes from './routes/routes.js'
 import cors from 'cors'
 
-//testing git connection
 dotenv.config();
 const app = express();
 
